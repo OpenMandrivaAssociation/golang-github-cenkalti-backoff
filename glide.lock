@@ -1,0 +1,8 @@
+hash: 62f9300a6f02e171c59c9b881ec1101d2eeda0ed6f9482b9af90838d203949d1
+imports:
+- name: golang.org/x/net
+  subpackages:
+  - context
+  version: b68f30494add4df6bd8ef5e82803f308e7f7c59c
+updated: '2018-07-02T13:07:10.067275+00:00'
+
